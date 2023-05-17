@@ -1,2 +1,5 @@
 # SAPgrafici
-Generate report from .xlsx files downloaded from /SDF/MON transaction of SAP System
+
+Tool to generate charts analyzing .xlsx file downloaded from SAP transaction /SDF/MON.
+
+
