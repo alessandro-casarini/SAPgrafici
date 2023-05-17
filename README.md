@@ -1,2 +1,2 @@
 # SAPgrafici
-Generate graphics from .csv downloaded from /SDF/MON transaction
+Generate report from .xlsx files downloaded from /SDF/MON transaction of SAP System
